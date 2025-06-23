@@ -1,4 +1,4 @@
-export default function DashboardStatistics(){
+export default function Statistics(){
     return(
         <>
             <div>

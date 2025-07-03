@@ -8,6 +8,6 @@ Open powershell terminal and write the command to install all dependecied (node_
 
 npm install
 
-Next run the command, which will start the project on localhost and a random port:
+Next run the command, which will start the project on localhost:
 
 npm run dev
